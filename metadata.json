@@ -1,0 +1,6 @@
+{
+  "name": "جهات اتصالي | إدارة جهات الاتصال PWA",
+  "description": "تطبيق ويب تقدمي متكامل لإدارة وتنظيم جهات الاتصال مع دعم كامل للعمل دون اتصال، الاتصال والواتساب السريع، استيراد وتصدير بطاقات vCard ورمز الاستجابة السريع QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
